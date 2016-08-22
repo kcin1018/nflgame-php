@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+    nflgame_suite:
+        namespace: NflGame
